@@ -1,0 +1,42 @@
+# Flight Price Prediction Project
+
+## Descripción del Proyecto
+Este repositorio contiene el código y la documentación para el proyecto de predicción de precios de vuelos. El objetivo principal del proyecto es desarrollar modelos predictivos de alta calidad para estimar los precios de los billetes de avión. El trabajo se realizará de manera grupal, con avances semanales durante las clases hasta la finalización del curso.
+
+## Objetivos del Proyecto
+1. **Establecer la Problemática a Solucionar:**
+   - Definir claramente el problema de predicción de precios de vuelos que se abordará en el proyecto.
+
+2. **Análisis Exploratorio de Datos (EDA):**
+   - Realizar un análisis exploratorio de datos para comprender la naturaleza y las características del conjunto de datos proporcionado.
+
+3. **Construcción de Modelos Predictivos:**
+   - Generar al menos tres modelos predictivos de precios de vuelos utilizando los datos proporcionados.
+
+4. **Documentación del Proceso:**
+   - Documentar de manera detallada el proceso de construcción de los modelos, incluyendo preprocesamiento de datos, selección de características, entrenamiento de modelos y evaluación de rendimiento.
+
+5. **Calidad y Originalidad:**
+   - Garantizar que el trabajo sea de alta calidad y no se limite a una simple ejecución de códigos de Kaggle. Se valorará la aportación de nuevos enfoques y la mejora de las soluciones predictivas.
+
+6. **Esquematización de la Solución Analítica:**
+   - Presentar de manera esquemática la solución analítica, destacando los pasos clave del proceso.
+
+## Procedimientos y Requisitos
+- Cada semana se realizarán avances grupales durante las clases.
+- La participación y el aporte personal de cada miembro del equipo serán evaluados.
+- Se deben utilizar los códigos de Kaggle proporcionados como base, pero se espera una mejora significativa a través de la incorporación de otros códigos relevantes. Todas las fuentes deben ser citadas adecuadamente.
+
+## Conjunto de Datos
+- Descargar el conjunto de datos "Flight Price Prediction" desde Kaggle: [Flight Price Prediction Dataset](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
+
+## Estructura del Repositorio
+- **`Data_Train.xlsx`:** Archivo de datos para el entrenamiento de modelos.
+- **`EDA.ipynb`:** Cuaderno Jupyter con el análisis exploratorio de datos.
+- **`Models.ipynb`:** Cuaderno Jupyter con la construcción y entrenamiento de modelos.
+- **`Documentation.pdf`:** Documentación detallada del proceso de construcción de modelos.
+- **`References.md`:** Archivo que contiene las referencias a los códigos y recursos utilizados.
+
+---
+
+**Nota:** Este proyecto se basa en el conjunto de datos "Flight Price Prediction Dataset" y utiliza códigos de Kaggle como punto de partida, pero se espera una mejora sustancial y la incorporación de nuevos enfoques para la solución predictiva. Todas las fuentes deben ser citadas para garantizar la integridad académica del proyecto.
